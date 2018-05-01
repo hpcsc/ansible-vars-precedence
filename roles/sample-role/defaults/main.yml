@@ -1,0 +1,9 @@
+---
+# defaults file for sample-role
+
+var1: 'from default'
+var2: 'from default'
+var3: 'from default'
+var4: 'from default'
+var5: 'from default'
+var6: 'from default'

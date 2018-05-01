@@ -1,0 +1,15 @@
+---
+# tasks file for sample-role
+
+- debug:
+    msg: "var1: {{ var1 }}"
+- debug:
+    msg: "var2: {{ var2 }}"
+- debug:
+    msg: "var3: {{ var3 }}"
+- debug:
+    msg: "var4: {{ var4 }}"
+- debug:
+    msg: "var5: {{ var5 }}"
+- debug:
+    msg: "var6: {{ var6 }}"

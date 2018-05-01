@@ -1,0 +1,9 @@
+---
+- hosts: local_group
+  gather_facts: false
+  vars:
+    var1: 'from playbook vars'
+    var2: 'from playbook vars'
+    var3: 'from playbook vars'
+  roles:
+    - sample-role
